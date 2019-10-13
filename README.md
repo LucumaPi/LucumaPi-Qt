@@ -1,0 +1,2 @@
+# LucumaPi-Qt
+LucumaPi Qt
