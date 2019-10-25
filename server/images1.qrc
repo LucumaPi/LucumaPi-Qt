@@ -1,0 +1,13 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/images">
+        <file>img/plc-s7-1200.jpg</file>
+        <file>img/iot-2000.jpeg</file>
+        <file>img/server-or-cloud.jpeg</file>
+        <file>img/laptop-client01.jpg</file>
+        <file>img/smartphone-client.png</file>
+        <file>img/dashboard.qml</file>
+        <file>img/start-server-01.png</file>
+        <file>img/stop-icon.jpeg</file>
+    </qresource>
+</RCC>
