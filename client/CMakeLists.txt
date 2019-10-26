@@ -26,5 +26,4 @@ add_executable(snap7-client-qt
     mainwindow.cpp
     mainwindow.h
 )
-target_link_libraries(snap7-client-qt PRIVATE "/usr/local/lib/libsnap7.so")
 target_link_libraries(snap7-client-qt PRIVATE Qt5::Widgets Qt5::Network)
